@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n}from"./app.14ef997c.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/css/indx.md"}'),s={name:"note/css/indx.md"};function a(o,r,c,d,i,p){return t(),n("div")}const f=e(s,[["render",a]]);export{m as __pageData,f as default};
